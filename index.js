@@ -6,5 +6,5 @@ function nestedTarget() {
   return document.getElementById('nested').querySelector('div')
 }
 function increaseRankBy(n){
-  
+  return document.querySelector
 }
