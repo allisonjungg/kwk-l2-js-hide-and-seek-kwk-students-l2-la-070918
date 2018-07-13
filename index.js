@@ -12,6 +12,6 @@ function increaseRankBy(n){
   }
   return document.querySelector(".ranked-list ")
 }
-function deepestChild.innerHTML(){
-  return.querySelector()
+function deepestChild () {
+ return document.querySelector("#grand-node div div div div")
 }
